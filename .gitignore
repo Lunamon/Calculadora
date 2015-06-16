@@ -41,3 +41,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/CalculadoraJBoss/CalculadoraJBoss-ejb/build/
+/CalculadoraJBoss/CalculadoraJBoss-ejb/dist/
+/CalculadoraJBoss/CalculadoraJBoss-ejb/nbproject/private/
+/CalculadoraJBoss/CalculadoraJBoss-war/build/
+/CalculadoraJBoss/CalculadoraJBoss-war/dist/
+/CalculadoraJBoss/CalculadoraJBoss-war/nbproject/private/
+/CalculadoraJBoss/build/
+/CalculadoraJBoss/dist/
+/CalculadoraJBoss/nbproject/private/
